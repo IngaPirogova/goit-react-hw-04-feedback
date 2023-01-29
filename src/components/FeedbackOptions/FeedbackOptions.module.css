@@ -1,0 +1,15 @@
+.options__list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+   
+}
+
+.options__btn {
+    padding: 5px 25px;
+    font-size: 18px;
+    border: 2px solid rgb(84, 84, 230);
+    border-radius: 6px;
+    } 
+
+    
